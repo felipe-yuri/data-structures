@@ -6,6 +6,7 @@
 # General files
 **/*.classpath
 **/*.project
+**/*.settings
 target/
 
 
