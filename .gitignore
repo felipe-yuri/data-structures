@@ -3,6 +3,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
 
 ### Java ###
+# General files
+**/*.classpath
+**/*.project
+target/
+
+
 # Compiled class file
 *.class
 
